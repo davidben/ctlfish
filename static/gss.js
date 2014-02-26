@@ -1,0 +1,1 @@
+../bower_components/webathena/dist/gss.js

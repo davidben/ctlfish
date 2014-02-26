@@ -1,0 +1,9 @@
+{
+  "name": "ctlfish",
+  "version": "0.0.0",
+  "dependencies": {
+    "webathena": "https://github.com/davidben/webathena.git",
+    "q": "~0.9.6",
+    "winchan": "https://github.com/mozilla/winchan.git"
+  }
+}
